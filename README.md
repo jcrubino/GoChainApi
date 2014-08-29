@@ -40,11 +40,11 @@ verbose=true # or false; no quotes! Outputs log info from individual api calls, 
 
 ## API Reference
 
-Naming conventions follow the node.js api conventions mostly
+Naming conventions follow the official node.js api conventions, except for GetBlockOpReturn which has explicit hash and height calls
 
 ## Tests
 
-see end of file
+Not really but you can see the api in action by looking at the end of chain.go
 
 ## Contributors
 
